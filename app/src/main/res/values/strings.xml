@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyPlanning</string>
+    <string name="Add">Add</string>
+    <string name="View">View</string>
+    <string name="Time">Time</string>
+    <string name="Title">Title</string>
+    <string name="PlannerTitle">Planner Title</string>
+    <string name="PlannerDate">Planner Date</string>
+    <string name="PlannerTime">Planner Time</string>
+    <string name="Update">Update</string>
+    <string name="EnterDate">Date</string>
+    <string name="EnterTime">EnterTime</string>
+    <string name="planning">Planning</string>
+    <string name="update_date">Update Date</string>
+    <string name="update_time">Update Time</string>
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="date_even">Date Even :</string>
+    <string name="time_event">Time Event :</string>
+
+</resources>
